@@ -47,5 +47,7 @@
     carregando.style.display = 'none'
     document.querySelector('.content').style.display = 'none'
     document.querySelector('.place').value = ''
+    
  } 
-} 
+}
+
